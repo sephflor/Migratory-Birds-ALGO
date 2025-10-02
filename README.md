@@ -1,1 +1,1 @@
-# Migratory-Birds-ALGO
+# Migratory-Birds-ALGO.This program reads a list of bird sightings (as integers), counts how many times each bird type appears, and returns the bird type with the highest frequency. In case of a tie, it returns the smallest bird ID among those with the highest count.
